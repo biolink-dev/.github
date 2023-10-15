@@ -6,9 +6,9 @@ Contributions to our open-source project are highly appreciated and welcomed! Wh
 
 If you're a developer, you can help improve the project by:
 
-- **Filing Issues**: Report bugs, suggest enhancements, or request new features by [creating an issue](link-to-issue-tracker).
+- **Filing Issues**: Report bugs, suggest enhancements, or request new features by creating an issue].
 
-- **Coding**: Contribute code by addressing open issues or implementing new features. Fork the project, create a feature branch, and submit a pull request (PR). Make sure to follow our [coding guidelines](link-to-coding-guidelines) and include tests where applicable.
+- **Coding**: Contribute code by addressing open issues or implementing new features. Fork the project, create a feature branch, and submit a pull request (PR). Make sure to follow our [coding guidelines]([link-to-coding-guidelines](https://github.com/biolink-dev/.github/blob/main/CODEGUIDELINES.md)) and include tests where applicable.
 
 - **Code Review**: Review open pull requests and provide constructive feedback. Code reviews help maintain code quality.
 
